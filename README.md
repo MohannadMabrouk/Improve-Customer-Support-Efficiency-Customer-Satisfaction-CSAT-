@@ -25,3 +25,4 @@ The final goal is to deliver actionable business recommendations that help reduc
 - SQL scripts
 - Tableau Dashboard
 - Insight summary report
+[][][][][]
