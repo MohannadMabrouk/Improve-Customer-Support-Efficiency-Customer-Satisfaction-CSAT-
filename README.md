@@ -1,11 +1,11 @@
-# Improve Customer Support Efficiency & Customer Satisfaction (CSAT)
+# Identify Customer Churn Causes to Reduce Churn Rates
 
 ## Description
-This project is a simulation of a real world dataset for Crypto platform customer support. 
-I utlized my current work experiance in the crypto customer field and my data analysis skills to build this project.
+This project is a simulation of a real world dataset for a telecom service customer support. 
+I utlized my current work experiance in the customer service field and my data analysis skills to build this project.
 
 ## Objective
-Analyze customer support operations to identify the key drivers of customer satisfaction (CSAT), improve support efficiency, and increase user retention
+Analyze user's data to identify the key drivers of high churn rates, improve user's experiance, and reduce user churn rate.
 
 The final goal is to deliver actionable business recommendations that help reduce churn, improve customer experience, and enhance service quality.
 
